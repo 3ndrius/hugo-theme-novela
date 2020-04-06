@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-04-06T22:00:00Z
-draft = true
 excerpt = "Lorem Ipsum"
 hero = "/static/images/car-race-438467_640.jpg"
 title = "First post"
